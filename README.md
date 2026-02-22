@@ -2,6 +2,8 @@
 
 A SIEM Detection Engineering rule pack to detect proprietary data exfiltration to unauthorized SaaS LLMs via outbound payload volume analysis.
 
+![A_dark_portraitoriented_2k_202602222205](https://github.com/user-attachments/assets/7b05c0aa-361e-4bf4-9911-823ce90b5d2f)
+
 ## 🚨 The Problem: Why DNS Blocking Fails for GenAI
 
 Most enterprises attempt to manage "Shadow AI" by blocking domains like `chatgpt.com` at the DNS level. This fails for three critical reasons:
@@ -41,4 +43,5 @@ These queries analyze network metadata and data transfer volumes. Before deployi
 We build governance frameworks for the Agentic AI era. Finding Shadow AI is step one. Governing it without killing developer velocity is step two.
 
 Need help building an Enterprise AI Gateway or an enforceable Acceptable Use Policy?
+
 Contact us for an AgentClaw Controls Toolkit (ACT) assessment at contact@move78int.com.
