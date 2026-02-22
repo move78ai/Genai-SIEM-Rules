@@ -1,0 +1,16 @@
+domain,category
+chatgpt.com,LLM_Chat
+api.openai.com,LLM_API
+anthropic.com,LLM_Chat
+api.anthropic.com,LLM_API
+claude.ai,LLM_Chat
+gemini.google.com,LLM_Chat
+generativelanguage.googleapis.com,LLM_API
+perplexity.ai,LLM_Search
+phind.com,LLM_Search_Dev
+poe.com,LLM_Aggregator
+huggingface.co,AI_Platform
+cohere.com,LLM_API
+mistral.ai,LLM_API
+githubcopilot.com,AI_Coding
+deepseek.com,LLM_Chat
